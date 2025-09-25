@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-# Knowledge Fabric
-This Qlik app integrates with multiple REST indexes to fetch, normalize, and store documents and metadata. It supports on-demand searches across single or multiple sources, builds searchable indexes, and manages results in structured tables for exploration, analysis, and downstream reporting.
-=======
+
 # Knowledge Fabric - Qlik App
+
+This Qlik app integrates with multiple REST indexes to fetch, normalize, and store documents and metadata. It supports on-demand searches across single or multiple sources, builds searchable indexes, and manages results in structured tables for exploration, analysis, and downstream reporting.
 
 Unified knowledge search across Qlik content sources, built entirely in Qlik Sense using REST connectors.
 
@@ -21,4 +20,4 @@ Unified knowledge search across Qlik content sources, built entirely in Qlik Sen
 4. Reload the app. Use the search input, pick an index, and hit **Search**.
 
 > This repository contains documentation only. App scripts are captured in the docs for reference.
->>>>>>> origin/master
+
