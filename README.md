@@ -11,6 +11,7 @@ Unified knowledge search across Qlik content sources, built entirely in Qlik Sen
 - **Minimal coupling**: backend URLs configurable via variables; per-index connections decoupled.
 
 👉 Qlik App: [Knowledge fabric App](https://qlikinternal.us.qlikcloud.com/sense/app/0833c4e2-e862-422d-9f6d-aaacb7ddac1a)
+
 👉 Full documentation: [Knowledge fabric](https://github.com/elias2112/knowledge-fabric/tree/main/docs)
 
  **Feedback, Questions or '.qvf' file:** 👉 [Elias Espir chat](https://teams.microsoft.com/l/chat/48:notes/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)
