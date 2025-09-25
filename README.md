@@ -10,7 +10,7 @@ Unified knowledge search across Qlik content sources, built entirely in Qlik Sen
 - **Local preview tables** to explore results and debug.
 - **Minimal coupling**: backend URLs configurable via variables; per-index connections decoupled.
 
-👉 Full documentation: https://elias2112.github.io/knowledge-fabric/
+👉 Full documentation: https://elias2112/knowledge-fabric/
 
 ## Quick Start
 
