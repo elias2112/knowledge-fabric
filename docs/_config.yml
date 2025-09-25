@@ -1,0 +1,10 @@
+title: Knowledge Fabric - Qlik App
+remote_theme: just-the-docs/just-the-docs
+logo: /assets/logo.png
+color_scheme: light
+search_enabled: true
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/elias2112/knowledge-fabric"
+plugins:
+  - jekyll-seo-tag

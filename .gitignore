@@ -1,0 +1,5 @@
+# Qlik artifacts and local junk
+*.qvf
+.DS_Store
+Thumbs.db
+*.log
